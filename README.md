@@ -1,5 +1,4 @@
-![aa](https://user-images.githubusercontent.com/69143883/126328377-3fe143c1-a115-4f16-80d0-811e84bd06c1.jpg)
-
+![aa](https://user-images.githubusercontent.com/69143883/126424196-00d58674-1ef9-4d3e-9b29-da7e23f3cac1.gif)
 # <👋 Hello, World!/><br>
 # I'm Adit Chhaparwal<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 👨‍🎓I am <b>Adit Chhaparwal</b>, currently embarking on my engineering journey from <b>D.Y. Patil College Of Engineering, Akurdi, Pune</b>
