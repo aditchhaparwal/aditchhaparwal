@@ -1,10 +1,10 @@
 # Hi, I'm Adit Chhaparwal 👋
 
-I'm a Full Stack Engineer and Master's student in Information Technology at Universität Stuttgart, focused on building scalable web applications and AI-driven systems.
+I'm a Full Stack Engineer and Master's student in Information Technology at Universität Stuttgart, focused on building full stack applications and AI-driven systems.
 
 ## 🚀 What I Do
 - Build end-to-end web applications (frontend → backend → deployment)
-- Develop GenAI applications (RAG systems, LLM-based pipelines)
+- Develop AI applications (RAG systems, LLM-based pipelines)
 - Design and implement scalable APIs and data-driven systems
 - Work on cloud-native and containerized architectures
 
@@ -31,7 +31,6 @@ Full-stack application implementing k-anonymity, l-diversity, differential priva
 
 ### 🔹 Fault Localization using LLMs
 AI-driven system for identifying buggy code segments using large language models.
-- Evaluated models like CodeT5 and GPT-based approaches on Defects4J dataset
 - Designed pipeline for bug detection, ranking, and analysis
 - Focus on improving debugging efficiency using LLM reasoning
 
