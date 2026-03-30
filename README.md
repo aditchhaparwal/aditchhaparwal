@@ -44,5 +44,3 @@ Developed a RAG based assistant that allows users to interact with data through 
 - Cloud-native architectures
 - Automotive software & intelligent systems
 
-## 📫 Connect with Me
-- LinkedIn: [https://www.linkedin.com/in/adit-chhaparwal]
