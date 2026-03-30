@@ -24,22 +24,25 @@ I'm a Full Stack Engineer and Master's student in Information Technology at Univ
 
 ## 📌 Featured Projects
 
-### 🔹 GenAI Dashboard Assistant
-RAG-based full-stack application enabling users to query data dashboards and generate insights.
-- Designed frontend + backend system architecture
-- Used by 350+ users
-- Reduced manual reporting effort by ~35%
-
 ### 🔹 Data Anonymization Platform
 Full-stack application implementing k-anonymity, l-diversity, differential privacy, and synthetic data generation.
 - React frontend + Python microservices
 - Modular, Dockerized architecture
 
+### 🔹 Fault Localization using LLMs
+AI-driven system for identifying buggy code segments using large language models.
+- Evaluated models like CodeT5 and GPT-based approaches on Defects4J dataset
+- Designed pipeline for bug detection, ranking, and analysis
+- Focus on improving debugging efficiency using LLM reasoning
+
+### 🔹 GenAI Assistant
+Developed a RAG based assistant that allows users to interact with data through natural language and instantly generate insights and dashboards.
+
 ## 🌱 Interests
-- Full Stack System Design
+- Full Stack Development
 - Generative AI & Multi-agent systems
 - Cloud-native architectures
 - Automotive software & intelligent systems
 
 ## 📫 Connect with Me
-- LinkedIn: [(https://www.linkedin.com/in/adit-chhaparwal/)]
+- LinkedIn: [https://www.linkedin.com/in/adit-chhaparwal]
