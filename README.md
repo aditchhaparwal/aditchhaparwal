@@ -24,15 +24,21 @@ I'm a Full Stack Engineer and Master's student in Information Technology at Univ
 
 ## 📌 Featured Projects
 
-### 🔹 Data Anonymization Platform
-Full-stack application implementing k-anonymity, l-diversity, differential privacy, and synthetic data generation.
-- React frontend + Python microservices
-- Modular, Dockerized architecture
+### 🔹 AI Agent for ECU test & Response Simulation Generation (Master’s Thesis)
+Developed a system to automatically generate executable ECU test scripts and response simulation logic from natural language requirements.
+- Designed an end-to-end pipeline: LLM → Intermediate Representation (IR) →  code generation  
+- Built validation and normalization layers to ensure correctness and consistency of generated artifacts  
+- Focus on deterministic LLM inference (vLLM) to improve reproducibility and reliability  
 
 ### 🔹 Fault Localization using LLMs
 AI-driven system for identifying buggy code segments using large language models.
 - Designed pipeline for bug detection, ranking, and analysis
 - Focus on improving debugging efficiency using LLM reasoning
+  
+### 🔹 Data Anonymization Platform
+Full-stack application implementing k-anonymity, l-diversity, differential privacy, and synthetic data generation.
+- React frontend + Python microservices
+- Modular, Dockerized architecture
 
 ### 🔹 GenAI Assistant
 Developed a RAG based assistant that allows users to interact with data through natural language and instantly generate insights and dashboards.
