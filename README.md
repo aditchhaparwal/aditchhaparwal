@@ -1,53 +1,45 @@
-![aa](https://user-images.githubusercontent.com/69143883/126424196-00d58674-1ef9-4d3e-9b29-da7e23f3cac1.gif)
-# <👋 Hello, World!/><br>
-# I'm Adit Chhaparwal<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-👨‍🎓I am <b>Adit Chhaparwal</b>, currently embarking on my engineering journey from <b>D.Y. Patil College Of Engineering, Akurdi, Pune</b>
-💻I am a <b>Web Developer</b> <br>
+# Hi, I'm Adit Chhaparwal 👋
 
+I'm a Full Stack Engineer and Master's student in Information Technology at Universität Stuttgart, focused on building scalable web applications and AI-driven systems.
 
+## 🚀 What I Do
+- Build end-to-end web applications (frontend → backend → deployment)
+- Develop GenAI applications (RAG systems, LLM-based pipelines)
+- Design and implement scalable APIs and data-driven systems
+- Work on cloud-native and containerized architectures
 
-## Here Is What I'm Working On!👨‍💻
+## 🧠 Currently Working On
+- Developing AI service for automating testing workflow in collaboration with Mercedes Benz 
+- Deterministic LLM inference using vLLM
+- Full-stack GenAI applications integrating frontend interfaces with AI backends
 
-  💻 I’m currently learning ...<strong>React JS</strong>
+## 🛠 Tech Stack
+- **Languages:** Python, JavaScript, TypeScript, C#, C++
+- **Frontend:** React, HTML, CSS
+- **Backend:** FastAPI, Flask, Node.js, .NET
+- **AI/ML:** LLMs, RAG, vLLM
+- **Data:** SQL, PostgreSQL, Databricks, Snowflake
+- **DevOps:** Docker, Kubernetes, GitHub Actions, Azure
+- **Tools:** Git, Linux, REST APIs
 
-  🤔 Ask me about ...<strong>Anything</strong>
-  
-  👦 Pronouns: ... <strong>He/Him</strong>
-    
- 
- <br>
-  
-  ## ⚒ Languages and Tools
-   <img alt="HTML5" src="https://img.shields.io/badge/html5-f46f36.svg?style=for-the-badge&logo=html5&logoColor=white"/>  <img alt="CSS3" src="https://img.shields.io/badge/css3-f46f36.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-f46f36.svg?style=for-the-badge&logo=javascript&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-f46f36.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-f46f36.svg?style=for-the-badge&logo=react&logoColor=white"/>  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-f46f36.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-f46f36.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-f46f36.svg?style=for-the-badge&logo=git&logoColor=white"/>  <img alt="MySQL" src="https://img.shields.io/badge/mysql-f46f36.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
-  
-<br>
-  
- ## </> Programming Languages Known
+## 📌 Featured Projects
 
- <img alt="C" src="https://img.shields.io/badge/c-f46f36.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-f46f36.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
- <br><br>
- 
-|<img src="https://github-readme-stats.vercel.app/api?username=aditchhaparwal&&show_icons=true&theme=great-gatsby&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditchhaparwal&theme=great-gatsby"/>|
-|---|---|
- <br>
- 
- ## Most Used Languages 💻
+### 🔹 GenAI Dashboard Assistant
+RAG-based full-stack application enabling users to query data dashboards and generate insights.
+- Designed frontend + backend system architecture
+- Used by 350+ users
+- Reduced manual reporting effort by ~35%
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditchhaparwal&layout=compact&theme=great-gatsby)](https://github.com/aditchhaparwal)<br>
- 
-## 🤝 Connect With Me:  
-  
-  <div align="left">
- <a href= "https://www.linkedin.com/in/adit-chhaparwal-52b609155/">
-<img src=https://img.shields.io/badge/linkedin-f46f36.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/aditchhaparwal" target="_blank">
-<img src=https://img.shields.io/badge/github-f46f36.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/adit_02_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-f46f36.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+### 🔹 Data Anonymization Platform
+Full-stack application implementing k-anonymity, l-diversity, differential privacy, and synthetic data generation.
+- React frontend + Python microservices
+- Modular, Dockerized architecture
 
-  
-</div>
+## 🌱 Interests
+- Full Stack System Design
+- Generative AI & Multi-agent systems
+- Cloud-native architectures
+- Automotive software & intelligent systems
 
+## 📫 Connect with Me
+- LinkedIn: [(https://www.linkedin.com/in/adit-chhaparwal/)]
